@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScreeanRecord</string>
+
+    <string name="record_screean">Record</string>
+    <string name="stop_record_screean">Stop Record</string>
+
+</resources>
